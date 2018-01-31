@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rxjava2 - Android</string>
+    <string name="title_activity_filter_example">FilterExampleActivity</string>
+</resources>
