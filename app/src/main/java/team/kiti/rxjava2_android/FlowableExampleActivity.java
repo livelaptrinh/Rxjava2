@@ -16,7 +16,7 @@ public class FlowableExampleActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_flowable_example);
-        doSomeWork();//Gọi hàm thực thi công việc
+        doSomeWork();//Gọi hàm thực thi công việc//
     }
 
     private void doSomeWork(){//
